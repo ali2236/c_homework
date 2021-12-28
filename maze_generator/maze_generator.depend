@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543853270 source:d:\projects\home_work\maze_generator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542003237 source:d:\projects\home_work\array_max_repeat\main.c
+	<stdio.h>
+	<time.h>
+

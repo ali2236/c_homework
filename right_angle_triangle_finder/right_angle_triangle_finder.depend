@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539965109 source:d:\projects\home_work\right_angle_triangle_finder\main.c
+	<stdio.h>
+	<stdlib.h>
+

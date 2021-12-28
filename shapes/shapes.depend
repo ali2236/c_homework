@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541408962 source:d:\projects\home_work\shapes\main.c
+	<stdio.h>
+	<math.h>
+

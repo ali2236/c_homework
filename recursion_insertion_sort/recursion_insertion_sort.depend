@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544812368 source:d:\projects\home_work\recursion_insertion_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
